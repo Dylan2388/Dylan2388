@@ -4,7 +4,7 @@
 
 **Dylan** — Software engineer working across systems, data and ML tooling. I like clean abstractions, fast feedback loops, and automation that quietly gets out of the way.
 
-📍 Stockholm, SE &nbsp;·&nbsp; 💼 Ericsson &nbsp;·&nbsp; ✉️ [hoangdungpham0703@gmail.com](mailto:hoangdungpham0703@gmail.com)
+📍 Helsinki, FI &nbsp;·&nbsp; 💼 Ericsson &nbsp;·&nbsp; ✉️ [hoangdungpham0703@gmail.com](mailto:hoangdungpham0703@gmail.com)
 
 <sub>open to interesting problems</sub>
 
